@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Maven Pro', sans-serif;
+}
+body {
+    width: 100vw;
+    background-color: yellow;
+}
+
+header {
+
+    margin: auto;
+    height: 500px;
+    background-color: #0d325a;
+}
+
+#header-top {
+    height: 100px;
+    margin: auto;
+    background-color: cyan;
+}
+
+#header-top-left{
+    
+}
+
+#header-bottom {
+    height: 400px;
+    margin: auto;
+    background-image: url('img/header-picture.png');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
